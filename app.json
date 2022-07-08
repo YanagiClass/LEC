@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "teampjt0708",
+    "slug": "teampjt0708",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "teampjt0708"
+}
